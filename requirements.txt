@@ -1,0 +1,10 @@
+flask
+pillow
+torch
+torchvision
+torchaudio
+transformers
+diffusers
+accelerate
+safetensors
+mediapipe
